@@ -1,0 +1,5 @@
+#!mast x Syckfile bin eg lib test [A-Z]*
+lib/tokre.rb
+test/test_tokre.rb
+HISTORY.rdoc
+README.rdoc

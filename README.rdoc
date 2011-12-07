@@ -1,0 +1,8 @@
+= Tokre
+
+Tokre is an exterminetal finite state machine 
+regular expression based paraser. It was orginally
+defined to be the underpinning of a wiki markup
+syntax before the author knew much about real
+lexers and parsers.
+

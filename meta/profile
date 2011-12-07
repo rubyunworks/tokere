@@ -1,0 +1,23 @@
+--- 
+title     : Tokere
+suite     : rubyworks
+summary   : Regular Expression Token Parser Kit
+copyright : Copyright (c) 2009 Thomas Sawyer
+license   : Apache 2.0
+contact   : rubyworks-mailinglist@googlegroups.com
+created   : 2004-08-01
+
+authors:
+  - Thomas Sawyer
+
+description:
+  Tokere is a simple regular expression based parser 
+  framework.
+
+resources:
+  homepage    : http://rubyworks.github.com/tokere
+  development : http://github.com/rubyworks/tokere
+  reference   : http://rubyworks.github.com/tokere/docs/api
+  mailinglist : http://groups.google.com/group/rubyworks-mailinglist
+  repository  : git://github.com/rubyworks/tokere.git
+
